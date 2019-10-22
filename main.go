@@ -1,5 +1,6 @@
 // Made by Norbert Wagner
-
+// Using course on YT: https://www.youtube.com/watch?v=P8MZ1Z2LHrw
+// Thank you "package main"
 package main
 
 import (
