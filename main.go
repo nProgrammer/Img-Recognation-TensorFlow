@@ -1,3 +1,5 @@
+// Made by Norbert Wagner
+
 package main
 
 import (

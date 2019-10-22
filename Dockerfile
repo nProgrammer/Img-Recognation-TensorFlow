@@ -1,3 +1,5 @@
+# Made by Norbert Wagner
+
 FROM ctava/tfcgo
 
 RUN mkdir -p /model && \
